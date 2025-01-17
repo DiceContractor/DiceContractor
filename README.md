@@ -2,6 +2,6 @@
 
 Python与C++学习中
 
-![](https://stats.justsong.cn/api/leetcode?username=quanpeng)
-![](https://stats.justsong.cn/api/leetcode?username=dicecontractor&cn=true)
+Leetcode已解决49：Easy 10，Medium 34，Hard 5.
+
 ![](https://stats.justsong.cn/api/bilibili/?id=22815790)
