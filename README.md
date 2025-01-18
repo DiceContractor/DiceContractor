@@ -1,11 +1,25 @@
 ## Hi there 👋
-### About Me
+### 近期学习成果
 
-Python与C++学习中
+Python与C++学习中.
+| Leetcode Solution| Easy | Medium | Hard |
+|-----------------:|-----:|-------:| ----:|
+|   49 (2024-12-15)|    10|      34|     5|
 
-Leetcode已解决49：Easy 10，Medium 34，Hard 5.
+<details>
+ <summery>2023 Portfolio for Production Design（影视/游戏场景概念设计）</summery>
+ text, image or code block 
+</details>
 
-[项目1](1-Zootopia Community Center.pdf)
+### 2023 Portfolio for Production Design（影视/游戏场景概念设计）
+本科建筑项目的概念设计化表达，依此作品集跨专业拿到2枚offer：
+
+- 世界第一电影学院AFI- Production Design
+- Chapman Dodge道奇电影学院- Production Design
+
+[1-Zootopia Community Center.pdf]()
+
+[1-Zootopia Community Center.pdf]()
 
 <body>
  <embed src="1-Zootopia Community Center.pdf"type="application/pdf"width=800 height=800>
