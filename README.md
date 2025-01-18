@@ -5,7 +5,7 @@ Python与C++学习中
 
 Leetcode已解决49：Easy 10，Medium 34，Hard 5.
 
-[项目1](https://github.com/DiceContractor/DiceContractor/edit/main/README.md)
+[项目1](1-Zootopia Community Center.pdf)
 
 <body>
  <embed src="1-Zootopia Community Center.pdf"type="application/pdf"width=800 height=800>
