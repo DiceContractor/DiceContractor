@@ -17,7 +17,7 @@ Python与C++学习中.
 - 世界第一电影学院AFI- Production Design
 - Chapman Dodge道奇电影学院- Production Design
 
-[![1-Zootopia Community Center 垂直向度设计：动物城社区中心.pdf](1-Zootopia Community Center.pdf)](https://markdown.com.cn)
+[![1-Zootopia Community Center 垂直向度设计：动物城社区中心.pdf](1-1.png)](https://markdown.com.cn)
 
 [1-Zootopia Community Center.pdf]()
 
