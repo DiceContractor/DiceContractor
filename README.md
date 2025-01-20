@@ -1,10 +1,16 @@
-## Hi there 👋
-### 近期学习成果
+## 近期学习成果
 
 Python与C++学习中.
 | Leetcode Solution| Easy | Medium | Hard |
 |-----------------:|-----:|-------:| ----:|
 |   49 (2024-12-15)|    10|      34|     5|
+
+> [Leetcode个人主页](https://leetcode.cn/u/dicecontractor/)
+
+<details>
+<summery>深度学习图像分类应用</summery>
+text, image or code block 
+</details>
 
 <details>
  <summery>2023 Portfolio for Production Design（影视/游戏场景概念设计）</summery>
