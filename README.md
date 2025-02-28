@@ -10,6 +10,13 @@ Python与C++学习中.
 > [Leetcode个人主页](https://leetcode.cn/u/dicecontractor/)
 
 <details>
+<summary>PyQt图形界面</summary><br>
+ 12306退改费查询程序：可以将退改费规则直观化展示，给用户提供退改时间选择的参考。
+ 
+ [源代码](https://leetcode.cn/u/dicecontractor/)
+</details>
+
+<details>
 <summary>深度学习-图像分类应用</summary><br>
 为麦当劳发展部的图像分类工作训练的模型
 </details>
