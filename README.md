@@ -1,6 +1,18 @@
-## 近期学习成果
+# :wave:About Me
 <picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
-<p align="right">↑我为McDonald中国制作的2023年终汇报片尾</p>
+
+李雪焓，24届同济CAUP建筑学，尝试转行中。
+设计/建模/渲染/游戏/python/C++<br>
+2024 跨专业获得世界第一电影学院AFI 与 Chapman Dodge 的 Production Design专业（影视/游戏场景概念设计）Offer
+<br><br><br><br><br>
+<p align="right">我为McDonald中国制作的2023年终汇报片尾↑</p>
+
+
+
+
+
+## 近期学习成果
+
 
 Python与C++学习中.
 | Leetcode Solution| Easy | Medium | Hard |
@@ -11,9 +23,18 @@ Python与C++学习中.
 
 <details>
 <summary>PyQt图形界面</summary><br>
- 12306退改费查询程序：可以将退改费规则直观化展示，给用户提供退改时间选择的参考。
+ 12306退改费查询程序
  
- [源代码](https://leetcode.cn/u/dicecontractor/)
+ 为学习PyQT图形界面而设计的程序，可以直观展示退改费随时间变化，并指导操作策略。
+ 
+ 使用工具：PySide6
+
+<div align="center">
+  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-退票.gif" width=800></picture>
+  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-改票.gif" width=800></picture>
+</div>
+
+ [github源代码](https://github.com/DiceContractor/PyQt-12306)
 </details>
 
 <details>
