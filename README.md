@@ -6,7 +6,7 @@
 2024 跨专业获得世界第一电影学院AFI 与 Chapman Dodge 的 Production Design专业（影视/游戏场景概念设计）Offer
 <br><br>
 
-> [简历链接（2025.03.05）](https://leetcode.cn/u/dicecontractor/)待更新
+> [简历链接（2025.03.05无效链接，待更新）](https://leetcode.cn/u/dicecontractor/)
 
 
 
@@ -18,7 +18,7 @@ Python与C++学习中.
 |   61 (2025-01-26)|    12|      42|     7|
 
 > [Leetcode个人主页](https://leetcode.cn/u/dicecontractor/)<br>
-> [Leetcode已解决题目代码存档](https://github.com/DiceContractor/Leetcode-Solutions)
+> [Leetcode已解决题目代码存档（2025.03.05搬运中）](https://github.com/DiceContractor/Leetcode-Solutions)
 
 <details>
 <summary>PyQt图形界面：12306退改费查询程序</summary><br>
@@ -40,7 +40,7 @@ Python与C++学习中.
 - 世界第一电影学院AFI- Production Design
 - Chapman Dodge道奇电影学院- Production Design
 
-<picture> <img alt="YOUR-ALT-TEXT" src="Portfolio for PD 2023/portfolio2023.gif" align="right" width=500></picture>
+<picture> <img alt="YOUR-ALT-TEXT" src="Portfolio for PD 2023/portfolio2023.gif" align="right" width=550></picture>
 
  <div align="center">
    <img src="Portfolio for PD 2023/cover/1-1.png" alt="1-1"title="1-Vertical Design:Zootopia Community Center
