@@ -65,5 +65,16 @@ Python与C++学习中.
 > 6. [The Stage Adapts to Film: Rope - Alfred Hitchcock<br>影视改编舞台策划：《绳索》希区柯克](https://github.com/DiceContractor/DiceContractor/blob/main/Portfolio%20for%20PD%202023/5-Rope.pdf)
 > 7. [Other Works 手绘等其他作品](https://github.com/DiceContractor/DiceContractor/blob/main/Portfolio%20for%20PD%202023/6-Others.pdf)
 
+## 💻技能/语言
+英语  TOEFL(IBT) 105    (2023.4)
+| 类别| 软件 | 学习/使用时长/项目经历 | 熟练度 |
+|-----------------:|-----:|-------:| ----:|
+|编程|Python3|3个月：数据结构学习；leetcode已解决61 (Easy 12 /Medium 42 /Hard 7）-2025.01.26|     熟练|
+|       |    C++|      1个月|     了解|
+|办公OFFICE|    Word| |     熟练|
+|          |    Excel| |     熟练|
+|          |    PowerPoint|大小课设等，5年平均每周2次汇报|     熟练|
+|3D建模|SketchUp（polygon建模）|5年：近20个建筑/城市设计项目，多个练习作与3D打印模型，业余爱好绘图的3D辅助等|     熟练|
+|          |Rhino（Nurbs曲面建模）|1年：多个练习作与3D打印模型，1个景观项目（成都麓湖样板岛规划） |     熟练|
 
-
+## 📎其他项目示例
