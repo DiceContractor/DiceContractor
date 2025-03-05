@@ -1,10 +1,12 @@
-# 👋About Me
+# 👋About Me（2025.03.05内容更新中）
 <picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
 <p align="left">(我为McDonald中国制作的2023年终汇报片尾→)</p>
 李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
 设计/建模/渲染/手绘/python <br><br>
-2024 跨专业获得世界第一电影学院AFI 与 Chapman Dodge 的 Production Design专业（影视/游戏场景概念设计）Offer
-<br><br>
+2024.03 跨专业斩获Offer:<br>
+
+> AFI (电影学院世界排名No.1)– Production Design<br>
+> Chapman Dodge - Production Design（影视/游戏场景概念设计）
 
 > [简历链接（2025.03.05无效链接，待更新）](https://leetcode.cn/u/dicecontractor/)
 
@@ -78,3 +80,6 @@ Python与C++学习中.
 |          |Rhino（Nurbs曲面建模）|1年：多个练习作与3D打印模型，1个景观项目（成都麓湖样板岛规划） |     熟练|
 
 ## 📎其他项目示例
+### 毕设展示
+### 古建筑测绘
+### AE工程文件
