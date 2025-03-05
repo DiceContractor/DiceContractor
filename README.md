@@ -1,66 +1,58 @@
-# :wave:About Me
-<picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
+# 👋About Me
+<picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=280></picture>
 
-李雪焓，24届同济CAUP建筑学，尝试转行中。
-设计/建模/渲染/游戏/python/C++<br>
+李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
+设计/建模/渲染/手绘/python <br><br>
 2024 跨专业获得世界第一电影学院AFI 与 Chapman Dodge 的 Production Design专业（影视/游戏场景概念设计）Offer
-<br><br><br><br><br>
+
+> [简历链接（2025.03.05）](https://leetcode.cn/u/dicecontractor/)待更新
+
+<br>
 <p align="right">我为McDonald中国制作的2023年终汇报片尾↑</p>
 
-
-
-
-
-## 近期学习成果
-
-
+## 📚近期学习成果
 Python与C++学习中.
 | Leetcode Solution| Easy | Medium | Hard |
 |-----------------:|-----:|-------:| ----:|
-|   49 (2024-12-15)|    10|      34|     5|
+|   61 (2025-01-26)|    12|      42|     7|
 
-> [Leetcode个人主页](https://leetcode.cn/u/dicecontractor/)
+> [Leetcode个人主页](https://leetcode.cn/u/dicecontractor/)<br>
+> [Leetcode已解决题目代码存档](https://github.com/DiceContractor/Leetcode-Solutions)
 
 <details>
-<summary>PyQt图形界面</summary><br>
- 12306退改费查询程序
+<summary>PyQt图形界面：12306退改费查询程序</summary><br>
+   为学习PyQT图形界面而设计的程序，可以直观展示退改费随时间变化，并指导操作策略。
  
- 为学习PyQT图形界面而设计的程序，可以直观展示退改费随时间变化，并指导操作策略。
+ - 使用工具：PySide6
+ -  [github源代码](https://github.com/DiceContractor/PyQt-12306)
  
- 使用工具：PySide6
-
-<div align="center">
-  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-退票.gif" width=800></picture>
-  <picture> <img alt="YOUR-ALT-TEXT" src="PyQt图形界面-12306退改费查询-改票.gif" width=800></picture>
+<div align="left">
+  <picture> <img alt="YOUR-ALT-TEXT" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E9%80%80%E7%A5%A8.gif" width=600></picture>
+   <picture> <img alt="YOUR-ALT-TEXT" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E6%94%B9%E7%A5%A8.gif" width=600></picture>
 </div>
-
- [github源代码](https://github.com/DiceContractor/PyQt-12306)
-</details>
-
-<details>
-<summary>深度学习-图像分类应用</summary><br>
-为麦当劳发展部的图像分类工作训练的模型
 </details>
 
 
-## 2023 Portfolio for Production Design（影视/游戏场景概念设计）
+## 📑旧作品集：2023 Portfolio for Production Design（影视/游戏场景概念设计）
 本科建筑项目的概念设计化表达，依此作品集跨专业拿到2枚offer：
 
 - 世界第一电影学院AFI- Production Design
 - Chapman Dodge道奇电影学院- Production Design
 
+<picture> <img alt="YOUR-ALT-TEXT" src="Portfolio for PD 2023/portfolio2023.gif" align="right" width=500></picture>
+
  <div align="center">
-   <img src="1-1.png" alt="1-1"title="1-Vertical Design:Zootopia Community Center
+   <img src="Portfolio for PD 2023/cover/1-1.png" alt="1-1"title="1-Vertical Design:Zootopia Community Center
    垂直向度设计：动物城社区中心"width=15%>
-   <img src="2-1.png" alt="2-1"title="2-Response to Human Environment:Ruikangli Youth Apartment 
+   <img src="Portfolio for PD 2023/cover/2-1.png" alt="2-1"title="2-Response to Human Environment:Ruikangli Youth Apartment 
    回应人居环境：瑞康里青年公寓"width=15%>
-   <img src="3-1.png" alt="3-1"title="3-Response to Natural Environment:Multifunctional Public Building in the Mountain 
+   <img src="Portfolio for PD 2023/cover/3-1.png" alt="3-1"title="3-Response to Natural Environment:Multifunctional Public Building in the Mountain 
     回应自然环境：山地多功能建筑"width=15%>
-   <img src="4-2.png" alt="1-1"title="4-Aid for the Purpose of Game:Mole Manor Central Planning
+   <img src="Portfolio for PD 2023/cover/4-2.png" alt="1-1"title="4-Aid for the Purpose of Game:Mole Manor Central Planning
 游戏场景增强：摩尔庄园中心枢纽重规划"width=15%>
-   <img src="5-1.png" alt="1-1"title="5-The Stage Adapts to Film: Rope - Alfred Hitchcock
+   <img src="Portfolio for PD 2023/cover/5-1.png" alt="1-1"title="5-The Stage Adapts to Film: Rope - Alfred Hitchcock
 影视改编舞台策划：《绳索》希区柯克"width=15%>
-   <img src="6-2.png" alt="1-1"title="6-Other Works 手绘等其他作品"width=15%>
+   <img src="Portfolio for PD 2023/cover/6-2.png" alt="1-1"title="6-Other Works 手绘等其他作品"width=15%>
  </div>
  
 作品集目录：
