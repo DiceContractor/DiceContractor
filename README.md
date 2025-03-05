@@ -1,14 +1,15 @@
 # 👋About Me
-<picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=280></picture>
-
+<picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
+<p align="left">(我为McDonald中国制作的2023年终汇报片尾→)</p>
 李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
 设计/建模/渲染/手绘/python <br><br>
 2024 跨专业获得世界第一电影学院AFI 与 Chapman Dodge 的 Production Design专业（影视/游戏场景概念设计）Offer
+<br><br>
 
 > [简历链接（2025.03.05）](https://leetcode.cn/u/dicecontractor/)待更新
 
-<br>
-<p align="right">我为McDonald中国制作的2023年终汇报片尾↑</p>
+
+
 
 ## 📚近期学习成果
 Python与C++学习中.
