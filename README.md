@@ -1,6 +1,6 @@
 # 👋About Me（2025.03.05内容更新中）
 <picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
-<p align="left">(我为McDonald中国制作的2023年终汇报片尾→)</p>
+<p style="color: #2ecc71">(我为McDonald中国制作的2023年终汇报片尾→)</p>
 李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
 设计/建模/渲染/手绘/python <br><br>
 2024.03 跨专业斩获Offer:<br>
@@ -8,11 +8,11 @@
 > AFI (电影学院世界排名No.1)– Production Design<br>
 > Chapman Dodge - Production Design（影视/游戏场景概念设计）
 
-> [个人简历链接-CN（2025.03.05更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
-> [个人简历链接-EN（2025.03.08更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+- [个人简历-CN（2025.03.05更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+- [个人简历-EN（2025.03.08更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
 
 <details>
-<summary>毕设：世界观设定——VR设备普及条件下的建成环境</summary><br>
+<summary>毕设：世界观设定——VR设备普及条件下的建成环境设计</summary><br>
    简介简介简介简介简介简介简介简介
  
  -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
