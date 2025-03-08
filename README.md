@@ -8,10 +8,21 @@
 > AFI (电影学院世界排名No.1)– Production Design<br>
 > Chapman Dodge - Production Design（影视/游戏场景概念设计）
 
-> [简历链接（2025.03.05更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+> [个人简历链接-CN（2025.03.05更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+> [个人简历链接-EN（2025.03.08更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
 
-
-
+<details>
+<summary>毕设：世界观设定——VR设备普及条件下的建成环境</summary><br>
+   简介简介简介简介简介简介简介简介
+ 
+ -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
+ -  [答辩PPT-公开链接](https://www.canva.cn/design/DAGHh2rS2PU/megYCWXRAZYrxvkUtjCGdg/view?utm_content=DAGHh2rS2PU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2a9415097)
+ 
+<div align="left">
+  <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
+   <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
+</div>
+</details>
 
 ## 📚近期学习成果
 Python与C++学习中.
@@ -30,8 +41,8 @@ Python与C++学习中.
  -  [github源代码](https://github.com/DiceContractor/PyQt-12306)
  
 <div align="left">
-  <picture> <img alt="YOUR-ALT-TEXT" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E9%80%80%E7%A5%A8.gif" width=600></picture>
-   <picture> <img alt="YOUR-ALT-TEXT" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E6%94%B9%E7%A5%A8.gif" width=600></picture>
+  <picture> <img alt="退票" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E9%80%80%E7%A5%A8.gif" width=600></picture>
+   <picture> <img alt="改签" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E6%94%B9%E7%A5%A8.gif" width=600></picture>
 </div>
 </details>
 
@@ -42,7 +53,7 @@ Python与C++学习中.
 - 世界第一电影学院AFI- Production Design
 - Chapman Dodge道奇电影学院- Production Design
 
-<picture> <img alt="YOUR-ALT-TEXT" src="Portfolio for PD 2023/portfolio2023.gif" align="right" width=550></picture>
+<picture> <img alt="2023作品集翻页GIF" src="Portfolio for PD 2023/portfolio2023.gif" align="right" width=550></picture>
 
  <div align="center">
    <img src="Portfolio for PD 2023/cover/1-1.png" alt="1-1"title="1-Vertical Design:Zootopia Community Center
