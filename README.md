@@ -11,25 +11,6 @@
 - [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250309.pdf)
 - [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/resume-lxh-20250309.pdf)
 
-<br>
-<details>
-<summary>毕设：世界观设定——VR设备普及条件下的建成环境设计</summary><br>
-   &emsp;&emsp;在VR设备如手机一般普及的时代，建筑空间的使用方法与城市规划的逻辑可能产生质的变化。当数字空间与物理空间叠加于一处，人的生活方式将会如何？结合大众IP提供的“故事性”、“目的性”和“体验感”，本小组提供了一种设想：<br><br>
-   
-   - 充分发展的 VR 将提供身临其境的体感，可以卷缩许多特定的物理功能空间（如演唱会等）；
-   - 节省下的空间，不再进行物理层面上的功能定义；
-   - 将人的高层次需求按行为模式分类，成为一个个“虚拟图层”叠加在未定义的物理空间中，加载功能；
-   - 城市将会呈现出均质、弥散、颗粒度较小、低层高密度的状态，例如：城市生活空间可个人定制而不影响公共，地标可随时间变化。是一种可生长、快速新陈代谢、更加平等多元的城市形态。<br><br>
-
-<div align="left">
-  <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
-   <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
-</div>
-   
- -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
- -  [答辩PPT-公开链接](https://www.canva.cn/design/DAGHh2rS2PU/megYCWXRAZYrxvkUtjCGdg/view?utm_content=DAGHh2rS2PU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2a9415097)
-</details>
-
 ## 📚近期学习成果
 Python与C++学习中.
 | Leetcode Solution| Easy | Medium | Hard |
@@ -40,18 +21,38 @@ Python与C++学习中.
 > [Leetcode已解决题目代码存档（2025.03.05搬运中）](https://github.com/DiceContractor/Leetcode-Solutions)
 
 <details>
-<summary>PyQt图形界面：12306退改费查询程序</summary><br>
-   为学习PyQT图形界面而设计的程序，可以直观展示退改费随时间变化，并指导操作策略。
+<summary><h4>PyQt图形界面：12306退改费查询程序</h4></summary><br>
+   &emsp;&emsp;为学习PyQT图形界面而设计的程序，可以直观展示退改费随时间变化，并指导操作策略。
  
  - 使用工具：PySide6
  -  [github源代码](https://github.com/DiceContractor/PyQt-12306)
- 
+
 <div align="left">
   <picture> <img alt="退票" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E9%80%80%E7%A5%A8.gif" width=600></picture>
    <picture> <img alt="改签" src="https://github.com/DiceContractor/PyQt-12306/blob/15956da7faad65edf5caa4c73af88a73b258971d/PyQt%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2-12306%E9%80%80%E6%94%B9%E8%B4%B9%E6%9F%A5%E8%AF%A2-%E6%94%B9%E7%A5%A8.gif" width=600></picture>
 </div>
 </details>
 
+
+<details>
+<summary><h4>毕业设计：世界观设定——VR设备普及条件下的建成环境设计（内容搬运中）</h4></summary><br>
+
+  <picture> <img alt="图层概念示意" src="https://github.com/DiceContractor/DiceContractor/blob/a4dd0ba789ca1c26ec690822fcc50416d14e19a5/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/%E6%AF%95%E8%AE%BE-show.png" ></picture>
+   <picture> <img alt="图层叠加原理" src="https://github.com/DiceContractor/DiceContractor/blob/a4dd0ba789ca1c26ec690822fcc50416d14e19a5/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/%E5%9B%BE%E5%B1%82%E5%9C%BA%E6%99%AF-%E8%BD%B4%E6%B5%8B/%E5%9B%BE%E5%B1%82%E5%8F%A0%E5%8A%A0%E5%8E%9F%E7%90%86.gif" width=600 align="right"></picture>
+
+   &emsp;&emsp;在VR设备如手机一般普及的时代，建筑空间的使用方法与城市规划的逻辑可能产生质的变化。当数字空间与物理空间叠加于一处，人的生活方式将会如何？结合大众IP提供的“故事性”、“目的性”和“体验感”，本小组提供了一种设想：<br><br>
+   
+   - 充分发展的 VR 将提供身临其境的体感，可以卷缩许多特定的物理功能空间（如演唱会等）；
+   - 节省下的空间，不再进行物理层面上的功能定义；
+   - 将人的高层次需求按行为模式分类，成为一个个“虚拟图层”叠加在未定义的物理空间中，加载功能；
+   - 城市将会呈现出均质、弥散、颗粒度较小、低层高密度的状态，例如：城市生活空间可个人定制而不影响公共，地标可随时间变化。是一种可生长、快速新陈代谢、更加平等多元的城市形态。<br><br>
+   
+ -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
+ -  [答辩PPT-公开链接](https://www.canva.cn/design/DAGHh2rS2PU/megYCWXRAZYrxvkUtjCGdg/view?utm_content=DAGHh2rS2PU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2a9415097)
+
+   <picture> <img alt="街道美学蜕变" src="https://github.com/DiceContractor/DiceContractor/blob/a4dd0ba789ca1c26ec690822fcc50416d14e19a5/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/%E8%A1%97%E9%81%93%E7%BE%8E%E5%AD%A6%E8%9C%95%E5%8F%98.gif"></picture>
+   
+</details>
 
 ## 📑旧作品集：2023 Portfolio for Production Design（影视/游戏场景概念设计）
 本科建筑项目的概念设计化表达，依此作品集跨专业拿到2枚offer：
@@ -84,7 +85,7 @@ Python与C++学习中.
 > 6. [The Stage Adapts to Film: Rope - Alfred Hitchcock<br>影视改编舞台策划：《绳索》希区柯克](https://github.com/DiceContractor/DiceContractor/blob/main/Portfolio%20for%20PD%202023/5-Rope.pdf)
 > 7. [Other Works 手绘等其他作品](https://github.com/DiceContractor/DiceContractor/blob/main/Portfolio%20for%20PD%202023/6-Others.pdf)
 
-## 💻技能/语言
+## 💻技能/语言（内容搬运中）
 英语  TOEFL(IBT) 105    (2023.4)
 | 类别| 软件 | 学习/使用时长/项目经历 | 熟练度 |
 |-----------------:|-----:|-------:| ----:|
@@ -96,7 +97,7 @@ Python与C++学习中.
 |3D建模|SketchUp（polygon建模）|5年：近20个建筑/城市设计项目，多个练习作与3D打印模型，业余爱好绘图的3D辅助等|     熟练|
 |          |Rhino（Nurbs曲面建模）|1年：多个练习作与3D打印模型，1个景观项目（成都麓湖样板岛规划） |     熟练|
 
-## 📎其他项目示例
-### 毕设展示
-### 古建筑测绘
-### AE工程文件
+## 📎其他项目示例（搬运中）
+
+### 古建筑测绘（搬运中）
+### AE工程文件（搬运中）
