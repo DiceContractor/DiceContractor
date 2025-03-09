@@ -8,8 +8,8 @@
 > AFI (电影学院世界排名No.1)– Production Design<br>
 > Chapman Dodge - Production Design（影视/游戏场景概念设计）
 
-- [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
-- [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+- [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250309.pdf)
+- [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/resume-lxh-20250309.pdf)
 
 <br>
 <details>
