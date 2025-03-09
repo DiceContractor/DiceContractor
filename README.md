@@ -1,27 +1,32 @@
 # 👋About Me（2025.03.05内容更新中）
-<picture> <img alt="YOUR-ALT-TEXT" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
+<picture> <img alt="McDonald2023年底汇报.gif" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
 <p style="color: #2ecc71">(我为McDonald中国制作的2023年终汇报片尾→)</p>
 李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
-设计/建模/渲染/手绘/python <br><br>
+python/设计/建模/渲染/手绘 <br><br>
 2024.03 跨专业斩获Offer:<br>
 
 > AFI (电影学院世界排名No.1)– Production Design<br>
 > Chapman Dodge - Production Design（影视/游戏场景概念设计）
 
-- [个人简历-CN（2025.03.05更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
-- [个人简历-EN（2025.03.08更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+- [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
+- [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
 
 <details>
 <summary>毕设：世界观设定——VR设备普及条件下的建成环境设计</summary><br>
-   简介简介简介简介简介简介简介简介
- 
- -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
- -  [答辩PPT-公开链接](https://www.canva.cn/design/DAGHh2rS2PU/megYCWXRAZYrxvkUtjCGdg/view?utm_content=DAGHh2rS2PU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2a9415097)
- 
+   在VR设备如手机一般普及的时代，建筑空间的使用方法与城市规划的逻辑可能产生质的变化。当数字空间与物理空间叠加于一处，人的生活方式将会如何？结合大众IP提供的“故事性”、“目的性”和“体验感”，本小组提供了一种设想：<br><br>
+   
+   - 充分发展的 VR 将提供身临其境的体感，可以卷缩许多特定的物理功能空间（如演唱会等）；
+   - 节省下的空间，不再进行物理层面上的功能定义；
+   - 将人的高层次需求按行为模式分类，成为一个个“虚拟图层”叠加在未定义的物理空间中，加载功能；
+   - 城市将会呈现出均质、弥散、颗粒度较小、低层高密度的状态，例如：城市生活空间可个人定制而不影响公共，地标可随时间变化。是一种可生长、快速新陈代谢、更加平等多元的城市形态。<br><br>
+
 <div align="left">
   <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
    <picture> <img alt="YOUR-ALT-TEXT" src="  " width=600></picture>
 </div>
+   
+ -  [设计文档-公开链接（包含设计思路、生成过程等）](https://www.mubu.com/doc/30LYp5fg9rM)
+ -  [答辩PPT-公开链接](https://www.canva.cn/design/DAGHh2rS2PU/megYCWXRAZYrxvkUtjCGdg/view?utm_content=DAGHh2rS2PU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd2a9415097)
 </details>
 
 ## 📚近期学习成果
