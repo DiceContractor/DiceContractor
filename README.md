@@ -10,7 +10,6 @@
 
 - [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250309.pdf)
 - [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/resume-lxh-20250309.pdf)
-- <a href="https://fuyeor.com/index/logo.png"  download="Fuyeor Logo">复网标志</a>
 
 <br>
 <details>
