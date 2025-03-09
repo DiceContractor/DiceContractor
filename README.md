@@ -1,8 +1,8 @@
 # 👋About Me（2025.03.05内容更新中）
 <picture> <img alt="McDonald2023年底汇报.gif" src="McDonald2023年底汇报.gif" align="right" width=300></picture>
-<p style="color: #2ecc71">(我为McDonald中国制作的2023年终汇报片尾→)</p>
-李雪焓，24届同济CAUP建筑学，尝试转行中。<br>
-python/设计/建模/渲染/手绘 <br><br>
+&emsp;&emsp;(我为McDonald中国制作的2023年终汇报片尾→)<br><br>
+**李雪焓，24届同济CAUP建筑学，尝试转行中**<br>
+目前能力范畴：**python/工程制图/设计/建模/渲染/手绘** 等<br><br>
 2024.03 跨专业斩获Offer:<br>
 
 > AFI (电影学院世界排名No.1)– Production Design<br>
@@ -11,9 +11,10 @@ python/设计/建模/渲染/手绘 <br><br>
 - [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
 - [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/main/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250304.pdf)
 
+<br>
 <details>
 <summary>毕设：世界观设定——VR设备普及条件下的建成环境设计</summary><br>
-   在VR设备如手机一般普及的时代，建筑空间的使用方法与城市规划的逻辑可能产生质的变化。当数字空间与物理空间叠加于一处，人的生活方式将会如何？结合大众IP提供的“故事性”、“目的性”和“体验感”，本小组提供了一种设想：<br><br>
+   &emsp;&emsp;在VR设备如手机一般普及的时代，建筑空间的使用方法与城市规划的逻辑可能产生质的变化。当数字空间与物理空间叠加于一处，人的生活方式将会如何？结合大众IP提供的“故事性”、“目的性”和“体验感”，本小组提供了一种设想：<br><br>
    
    - 充分发展的 VR 将提供身临其境的体感，可以卷缩许多特定的物理功能空间（如演唱会等）；
    - 节省下的空间，不再进行物理层面上的功能定义；
