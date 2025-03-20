@@ -15,7 +15,7 @@
 <summary><h5>PS.游戏经历（2025.03.20更新）</h5></summary>
    steam库90个左右，游戏偏好：冒险、生存、建造<br><br>
    
-   | 主机| PC | 手游 |
+   | NS  | PC | 手游 |
    |----:|---:|-----:|
    |塞尔达-旷野之息通关-195h<br>塞尔达-王国之泪50%-85h<br>动物森友会-120h<br>云了弹丸论破全系列|星露谷完美度100%档一个-500h<br>泰拉瑞亚200h<br>饥荒（+联机版）203h<br>Bear and Breakfast-49h<br>人类一败涂地20h<br>双人成行通关36h<br>茶杯头20h<br>锈湖全系列<br>火山的女儿23h<br>Stick Fight: The Game<br>药剂工艺<br>Unpacking<br>Garden Galaxy-17h<br>传说之下<br>Kalimba<br>A Little to the Left<br>Helltaker<br>Stickybusiness<br>Townscaper<br>|凹凸世界<br>摩尔庄园<br>姜饼人王国<br>跑跑姜饼人<br>乐高无限<br>江南百景图|
 </details>
