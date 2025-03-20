@@ -11,6 +11,15 @@
 - [个人简历-CN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/%E7%AE%80%E5%8E%86-%E6%9D%8E%E9%9B%AA%E7%84%93-20250309.pdf)
 - [个人简历-EN（2025.03.09更新）](https://github.com/DiceContractor/DiceContractor/blob/293365e2f68fa25f3ac6626ed845932f159bc351/resume-lxh-20250309.pdf)
 
+<details>
+<summary><h5>PS.游戏经历（2025.03.20更新）</h5></summary>
+   steam库90个左右，游戏偏好：冒险、生存、建造<br><br>
+   
+   | 主机| PC | 手游 |
+   |----:|---:|-----:|
+   |塞尔达-旷野之息通关-195h<br>塞尔达-王国之泪50%-85h<br>动物森友会-120h<br>云了弹丸论破全系列|星露谷完美度100%档一个-500h<br>泰拉瑞亚200h<br>饥荒（+联机版）203h<br>Bear and Breakfast-49h<br>人类一败涂地20h<br>双人成行通关36h<br>茶杯头20h<br>锈湖全系列<br>火山的女儿23h<br>Stick Fight: The Game<br>药剂工艺<br>Unpacking<br>Garden Galaxy-17h<br>传说之下<br>Kalimba<br>A Little to the Left<br>Helltaker<br>Stickybusiness<br>Townscaper<br>|凹凸世界<br>摩尔庄园<br>姜饼人王国<br>跑跑姜饼人<br>乐高无限<br>江南百景图|
+</details>
+
 ## 📚近期学习成果
 Python与C++学习中.
 | Leetcode Solution| Easy | Medium | Hard |
@@ -89,13 +98,36 @@ Python与C++学习中.
 英语  TOEFL(IBT) 105    (2023.4)
 | 类别| 软件 | 学习/使用时长/项目经历 | 熟练度 |
 |-----------------:|-----:|-------:| ----:|
-|编程|Python3|3个月：数据结构学习；leetcode已解决61 (Easy 12 /Medium 42 /Hard 7）-2025.01.26|     熟练|
-|       |    C++|      1个月|     了解|
-|办公OFFICE|    Word| |     熟练|
-|          |    Excel| |     熟练|
-|          |    PowerPoint|大小课设等，5年平均每周2次汇报|     熟练|
-|3D建模|SketchUp（polygon建模）|5年：近20个建筑/城市设计项目，多个练习作与3D打印模型，业余爱好绘图的3D辅助等|     熟练|
-|          |Rhino（Nurbs曲面建模）|1年：多个练习作与3D打印模型，1个景观项目（成都麓湖样板岛规划） |     熟练|
+|**编程**  |**Python3**|3个月：数据结构学习；leetcode已解决61 (Easy 12 /Medium 42 /Hard 7）-2025.01.26|熟练|
+|          |**C++**|1个月|了解|
+|**办公OFFICE**|**Word**|   |熟练|
+|          |**Excel**|    |     熟练|
+|          |**PowerPoint**|大小课设等，5年平均每周2次汇报|     熟练|
+|**3D建模**|**SketchUp（polygon建模）**|5年：近20个建筑/城市设计项目，多个练习作与3D打印模型，业余爱好绘图的3D辅助等|     熟练|
+|          |**Rhino（Nurbs曲面建模）**|1年：多个练习作与3D打印模型，1个景观项目（成都麓湖样板岛规划） |     熟练|
+|          |**Grasshopper（参数化建模）**|2个月/1个景观项目（成都麓湖样板岛规划） |     掌握|
+|          |**Blender**|业余爱好，跟做模型2个|掌握|
+|          |**Magica Voxel（体素建模）**|业余爱好|熟练|
+|          |**Nomad**|业余爱好|掌握|
+|**BIM工程建模**|**ArchiCAD**|1 个建筑长题（无锡稻香市场改造）|熟练|
+|          |**Revit**|1 个建筑长题（旭辉商业综合体TOD）|熟练|
+|  **渲染**|**Lumion**|2-3次工程渲染|熟练|
+|          |**Enscape**|20余建筑/场景项目|精通|
+|          |**V-Ray**|3-4建筑/产品项目|熟练|
+|          |**Keyshot**|2个产品渲染项目|熟练|
+|**工程制图**|**CAD**|5 年：上述全部建筑项目的工程图纸绘制，机械零件图纸等 |精通|
+|          |**天正**|5 年：上述全部建筑项目的工程图纸绘制|精通|
+|          |**Layout**|2 个月：几次SketchUp直出工程图纸处理 |熟练|
+|**矢量制图**|**Adobe Illustrator**|3 年：部分工程图纸的清理、调整工作 |熟练|
+|          |**Curve**|2 年：多个图标icon作品，矢量分析图绘制|精通|
+|**图像/视频**|**Adobe Indesign**|1年：3-4次项目图集排版|熟练|
+|          |**Adobe Lightroom**|2年：数百张图像平衡|精通|
+|          |**Adobe Photoshop**|5年|熟练|
+|          |**Adobe After Effects**|3 年：3个手书短片制作，1个麦当劳千店展示汇报视频 |熟练|
+|          |**Arctime**|1个视频嵌字项目|熟练|
+|  **手绘**|**SAI**|5年：多软件手绘图插画共约460张|精通|
+|          |**Procreate**||精通|
+
 
 ## 📎其他项目示例（搬运中）
 
